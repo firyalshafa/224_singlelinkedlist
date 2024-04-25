@@ -83,6 +83,15 @@ void addnode() {
      return true;
  }
 
+ bool listEmpty() {
+     if (START == NULL)
+         return true;
+     else
+         return false;
+ }
+
+
+
 
 
 
