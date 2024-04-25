@@ -14,7 +14,8 @@ node* START = NULL;
 
 void addnode() {
     int nim;
-
+    string nama;
+    
 
 }
 
