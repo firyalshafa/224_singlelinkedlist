@@ -20,7 +20,7 @@ void addnode() {
     cin >> nim;
     cout << "masukkan nama :";
     cin >> nama;
-    nodeBaru->
+    
 }
 
 int main()
