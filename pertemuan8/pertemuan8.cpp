@@ -20,7 +20,12 @@ void addnode() {
     cin >> nim;
     cout << "masukkan nama :";
     cin >> nama;
-    
+    nodeBaru-> noMhs = nim;
+    nodeBaru->name = nama;
+
+    if (START == NULL || nim <= START->noMhs) {
+
+    }
 }
 
 int main()
