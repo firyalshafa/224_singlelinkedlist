@@ -8,8 +8,11 @@ struct node {
     int noMhs;
     string name;
     node* next;
-
 };
+
+node* START = NULL;
+
+
 
 int main()
 {
