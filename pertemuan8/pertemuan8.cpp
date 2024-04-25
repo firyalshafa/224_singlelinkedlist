@@ -12,7 +12,11 @@ struct node {
 
 node* START = NULL;
 
+void addnode() {
+    int nim;
 
+
+}
 
 int main()
 {
